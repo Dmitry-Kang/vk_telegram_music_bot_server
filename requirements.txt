@@ -1,0 +1,5 @@
+vk_api
+bs4
+pyTelegramBotAPI
+python-dotenv
+m3u8
